@@ -1,5 +1,5 @@
 
-# Hi, I am GorunVector!
+# Hi, I am Darius!
 
 **`Computer Science beginner`**
 
