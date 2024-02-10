@@ -5,7 +5,7 @@
 
 **Experience:** 1 year.
 
-**Age:** 15 years old.
+**Age:** 16 years old.
 
 Welcome to my github page. I am a beginner in coding and software development, but from a young age I have been fascinated by the computer and it's functions. With this page I hope to help document my progress and contribute to my portfolio.
 ## Achievements
