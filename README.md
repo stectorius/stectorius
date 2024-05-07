@@ -1,5 +1,5 @@
 
-# Hi, I am VectorDarius!
+# Hi, I am Darius!
 
 **`Computer Science beginner`**
 
