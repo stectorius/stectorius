@@ -1,7 +1,7 @@
 
 # Hi, I am Darius!
-
 **`Computer Science beginner`**
+**`Software Developer in the making`**
 
 **Experience:** 1 year.
 
