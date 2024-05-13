@@ -1,4 +1,3 @@
-
 # Hi, I am Darius!
 **`Computer Science beginner`**
 **`Software Developer in the making`**
@@ -9,7 +8,8 @@
 
 Welcome to my github page. I am a beginner in coding and software development, but from a young age I have been fascinated by the computer and it's functions. With this page I hope to help document my progress and contribute to my portfolio.
 ## Achievements
-
+**InfoCNFB**:100/400 points.
+**OJI(Olympiad of IT on a county level)**:72/300 points.
 
 ## 🔗 Links
 
