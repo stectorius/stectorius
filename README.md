@@ -12,6 +12,8 @@ Welcome to my github page. I am a beginner in coding and software development, b
 
 **OJI(Olympiad of IT on a county level)**:72/300 points.
 
+**Senior(Mixed class level):51/400
+
 ## 🔗 Links
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
