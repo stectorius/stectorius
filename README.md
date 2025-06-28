@@ -1,10 +1,8 @@
-# Hi, I am Darius!
+# Hi, I am Hector!
 **`Computer Science beginner`**
 **`Software Developer in the making`**
 
-**Experience:** 1 year.
-
-**Age:** 16 years old.
+**Age:** 17 years old.
 
 Welcome to my github page. I am a beginner in coding and software development, but from a young age I have been fascinated by the computer and it's functions. With this page I hope to help document my progress and contribute to my portfolio.
 ## Achievements
