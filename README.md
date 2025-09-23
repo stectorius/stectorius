@@ -17,20 +17,6 @@ Welcome to my github page. I am a student majoring in coding and software develo
 *Personal Projects:*
 - **TeenCraiova**
 
-
-
-## Skills
-
-<a href="https://github.com/stectorius/csharp">![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)</a>
-
-<a href="https://github.com/stectorius/cpp">![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<a href="https://github.com/stectorius/httml-and-css">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-<a href="https://github.com/stectorius/python">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<a href="https://github.com/stectorius/javascript">![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
-
 ## Education
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
